@@ -8,5 +8,6 @@ red
 blue 
 red 
 sky blue 
+violet 
 
 coloyur of rainbow 
